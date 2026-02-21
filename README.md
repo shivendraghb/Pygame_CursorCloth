@@ -1,5 +1,9 @@
 # 🕸️ Pygame Interactive Cloth Simulation
 
+
+https://github.com/user-attachments/assets/f2cfb234-e595-469a-b6c7-141cb6469b6a
+
+
 A lightweight, real-time 2D cloth simulation built entirely in Python using `pygame` and `math`. 
 
 This project uses **Verlet integration** to simulate a physics-based mesh. The cloth is suspended from the top of the screen, reacts to gravity, and is fully interactive—you can drag the fabric around or tear it apart using your mouse!
